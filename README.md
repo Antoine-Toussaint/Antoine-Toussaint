@@ -10,7 +10,7 @@ antoine.toussaint2002@gmail.com
 * go
 * python
 * C
-* OCaml (sadly, yes...)
+* OCaml
 * Java
 * C# (thanks Unity)
 * TypeScript
